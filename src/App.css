@@ -1,0 +1,10 @@
+.view{
+  display: grid !important;
+  grid-template-columns: 1fr 1fr 1fr 1fr !important;
+  gap: 25px;
+  margin: 0 auto;
+  width: 90%;
+}
+h1{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
